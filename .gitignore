@@ -74,6 +74,8 @@ src/style - official.css
 config.local.ts
 **/storageState.json
 junit.xml
+librechat.yaml
+librechat.yml
 
 # docker override file
 docker-compose.override.yaml
